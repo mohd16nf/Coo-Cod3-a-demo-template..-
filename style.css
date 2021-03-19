@@ -1,0 +1,200 @@
+
+
+.nav1{
+    background-color: #0a3d62;
+}
+
+.sublist1{
+    background-color: #0a3d62;
+}
+
+.dropdown-list-color{
+    color: black;
+    font-weight: bold;
+    font-size: 17px;
+}
+
+.form1{
+    background-color: #0a3d62;  
+}
+
+
+
+.image{
+    width: 100%;
+    height: 530px;
+}
+
+#search1{
+    outline: none;
+    border: none;
+    background: none;
+    width: 0px;
+    transition: all 500ms ease-in-out;
+}
+
+#Search:hover > #search1{
+    width: 250px;
+    height: 40px;
+    background-color: white;
+    color: #0a3d62 ;
+}
+
+#heading1{
+    background-color: #0a3d62;
+    margin-bottom: 200px;
+    border-radius: 10px;
+}
+
+#heading1:hover{
+    background-color: gray;
+
+}
+
+#graduates{
+    color: #0a3d62;
+    font-weight: bold;
+}
+
+.cards-body-color{
+    background-color: #0a3d62; 
+}
+
+.button{
+    color: black;
+    background-color: #0a3d62;
+    font-size: 20px;
+    border-radius: 10px;
+   
+}
+
+.button:hover{
+    background-color: #0a3d62;
+    color: white;
+}
+
+.Language1{
+    background-color: #0a3d62;
+}
+
+#headingOne{
+    font-size: 22px;
+}
+
+.JavaScript-list{
+   background-color: black;
+    font-size: 18px;
+
+}
+
+.JavaScript-list:hover{
+    background-color:#0a3d62 ;
+    color: white;
+}
+
+
+.JavaScript-list a:hover{
+    background-color:#0a3d62 ;
+    color: white;
+}
+
+.python-list{
+    background-color: black;
+     font-size: 18px;
+ 
+ }
+
+.python-list:hover{
+    background-color:#0a3d62 ;
+    color: white;
+}
+
+
+.python-list a:hover{
+    background-color:#0a3d62 ;
+    color: white;
+}
+
+.C-list{
+    background-color: black;
+     font-size: 18px;
+
+ 
+ }
+
+.C-list:hover{
+    background-color:#0a3d62 ;
+    color: white;
+}
+
+
+.C-list a:hover{
+    background-color:#0a3d62 ;
+    color: white;
+}
+
+.content-heading{
+    color:#0a3d62;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+
+
+.inner{
+    overflow: hidden;
+}
+
+.inner .img-hover{
+    transition:all 1s ease-in-out;
+    cursor: pointer;
+}
+
+.inner:hover .img-hover{
+    transform: scale(1.5)
+}
+
+
+
+
+
+.body-background{
+    background:#0a3d62 ;
+}
+
+#body-color{
+    background:#0a3d62 
+}
+
+#form{
+    margin-top: 150px;
+    margin-bottom: 100px;
+}
+
+
+#footer-devider{
+    border: 2px solid white;
+    margin-bottom: 0px;
+}
+
+#footer{
+    background:#0a3d62 ;
+}
+
+#footer ul li a #insta:hover{
+    color:purple;
+}
+
+#footer ul li a #twitter:hover{
+    color: blue;
+}
+
+#footer ul li a #youtube:hover{
+    color:red;
+}
+
+#footer ul li a #gitHub:hover{
+    color:black;
+}
+
+
